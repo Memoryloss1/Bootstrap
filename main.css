@@ -1,0 +1,55 @@
+body{
+     background-color: #84878a;
+     min-height: 100vh;
+
+ }
+ .menu{
+    border: 1px solid slategrey ;
+    background-color: rgb(42, 48, 54);
+    height: 50px;
+    padding-top: 10px;
+}
+
+div.menu a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: slategrey;
+    
+}
+
+div.menu a:hover{
+    color: snow;
+}
+
+.text-danger{
+    font-size: 25px;
+    
+}
+
+.jumbotron{
+    text-align: center;
+    
+}
+
+
+
+.card{
+    background-color: seashell;
+    
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 30px;
+display: block;
+border-radius: 15px;
+}
+
+p.fiyat{
+    background-color: slategray;
+    border-radius: 10px;
+    width: 59px;
+    font-size: 15px;
+
+    
+    
+}
